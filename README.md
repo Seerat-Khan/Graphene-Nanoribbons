@@ -14,7 +14,7 @@ This project computes and plots the energy spectrum of graphene nanoribbons with
 Energy spectra for different ribbon widths:
 
 <p align="center">
-  <img src="Results/ZGN_n23.png" width="600" />
+  <img src="Results/ZGN_n23.png" width="500" />
   <img src="Results/ZGN_n24.png" width="600" />
 </p>
 
